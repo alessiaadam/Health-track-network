@@ -1,0 +1,7 @@
+Pacient Eva 1 parolaeva1
+Pacient Mihai 3 parolamihai3
+Pacient Crina 19 parolacrina19
+Pacinet Daria 8 paroladaria8
+Doctor Andries 14 doctorandries14
+Doctor Adam 24 doctoradam24
+Doctor Cotrus 11 doctorcotrus

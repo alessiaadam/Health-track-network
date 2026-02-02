@@ -1,0 +1,12 @@
+2026-01-04 15:00 Eva Temperatura 37.8
+2026-01-04 19:35 Ana 1 Temperatura 39
+2026-01-05 02:37 Eva 1 Temperatura 38
+2026-01-05 02:37 Eva 1 Temperatura 40
+2026-01-05 02:38 Mihai 3 Temperatura 36
+2026-01-05 03:11 Crina 19 Puls 160
+2026-01-05 09:16 Daria 8 Temperatura 39
+2026-01-05 09:17 Eva 1 Puls 130
+2026-01-05 10:44 Eva 1 Saturatie 101
+2026-01-05 12:50 Eva 1 Temperatura 35 Normal
+2026-01-05 12:50 Eva 1 Saturatie 120 NIvel ridica de oxigen
+2026-01-05 12:52 Eva 1 Puls 200 Tahicardie
